@@ -48,7 +48,7 @@
 
   let padPrevX = 0, padStart = false, padZap = false, padFire = false;
   I.poll = function () {
-    const pads = navigator.getGamepads ? navigator.getGamepads() : [];
+    const pads = window.PAD ? [] : (navigator.getGamepads ? navigator.getGamepads() : []);
     for (const p of pads) {
       if (!p || !p.connected) continue;
       const b = p.buttons, ax = p.axes;

@@ -21,6 +21,10 @@ A gamepad also works (d-pad or stick to steer, `A` to fire, `B` / `X` / `RB` for
 
 Play in portrait. Slide a thumb left or right anywhere on the screen to step the claw around the rim (one lane per short slide). The cannon fires by itself, and **ZAP** is the screen-clearing zapper. The pause button opens the menu. The on-screen controls appear on touch devices automatically; Settings has size, opacity and a left-handed layout. Use your browser's *Add to Home Screen* to install it as a full-screen app.
 
+### Controller
+
+Plug in a gamepad and it just works: the stick or D-pad steps the claw around the rim, **A / RT** fires, **B / X / RB** is the zapper, **Start** pauses. In menus the D-pad / left stick moves the highlight, **A** selects, **B** goes back and **Start** plays or resumes. **Settings -> Controller** has a dead-zone slider and lets you remap every button.
+
 ## Gameplay
 
 - **The goal:** shoot every climber in the web. When the last one dies, you warp to the next web, and then visit the upgrade shop.
